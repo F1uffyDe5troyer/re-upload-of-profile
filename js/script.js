@@ -97,29 +97,47 @@ let projects = [
     {
       imgURL: "images/projects/Dark theme.png",
       imgALT: "My Project 1",
-      title: "Flower e-commerce",
+      title: "Dark Theme",
       techStack: "HTML/CSS",
       description: "lorem ipsum hello world",
-      githubURL: "#",
-      liveProjectURL: "#"
+      githubURL: "https://github.com/F1uffyDe5troyer/Project-do-over",
+      liveProjectURL: "https://friendly-jennings-1a27d9.netlify.app/"
     },
     {
       imgURL: "images/projects/Css animation.png",
       imgALT: "My Project 2",
-      title: "My Project Title 2",
+      title: "CSS Animation",
       techStack: "HTML/CSS",
       description: "lorem ipsum Python",
       githubURL: "#",
-      liveProjectURL: "#"
+      liveProjectURL: "https://eager-beaver-21dff1.netlify.app/"
     },
     {
       imgURL: "images/projects/First Site.png",
       imgALT: "My Project 3",
-      title: "My Project Title 45",
+      title: "First Site",
       techStack: "HTML/CSS",
       description: "lorem ipsum JS",
-      githubURL: "#",
-      liveProjectURL: "#"
+      githubURL: "https://github.com/F1uffyDe5troyer/Nav-bar-website",
+      liveProjectURL: "https://sleepy-pare-db86c3.netlify.app/"
+    },
+    {
+      imgURL: "images/projects/E-commerce.png",
+      imgALT: "My Project 3",
+      title: "Flower E-commerce",
+      techStack: "HTML/CSS",
+      description: "lorem ipsum JS",
+      githubURL: "https://github.com/F1uffyDe5troyer/Single-page-site",
+      liveProjectURL: "https://quizzical-lumiere-12f95f.netlify.app/"
+    },
+    {
+      imgURL: "images/projects/Calculator.png",
+      imgALT: "My Project 3",
+      title: "Calculator",
+      techStack: "HTML/CSS",
+      description: "lorem ipsum JS",
+      githubURL: "https://github.com/F1uffyDe5troyer/Calculator",
+      liveProjectURL: "https://sleepy-payne-35b730.netlify.app/"
     },
   ];
   
