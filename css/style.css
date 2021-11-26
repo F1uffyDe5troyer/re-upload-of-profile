@@ -589,10 +589,20 @@ p{
 }
 
 /* skills section styling */
+.skills{
+    color:rgb(255, 255, 255);
+    background: #111;
+}
 
 .skills .title::after{
-    content: "what i know";
+    content: "my journey";
+    background-color: #111;
 }
+
+.skills .title::before{
+    background: rgb(255, 255, 255);
+}
+
 .skills .skills-content .column{
     width: calc(50% - 30px);
 }
@@ -687,9 +697,20 @@ p{
   }
   
 /* testimonial section styling */
-.teams .title::after{
-    content: "infer";
+.teams{
+    color:rgb(255, 255, 255);
+    background: #111;
 }
+
+.teams .title::after{
+    content: "my journey";
+    background-color: #111;
+}
+
+.teams .title::before{
+    background: rgb(255, 255, 255);
+}
+
 .teams .carousel .card{
     background: #222;
     border-radius: 6px;
