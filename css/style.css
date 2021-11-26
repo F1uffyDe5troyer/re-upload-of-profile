@@ -435,7 +435,7 @@ section .title::after{
   background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(255, 255, 255) 60%,rgb(255, 255, 255) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8a9196', endColorstr='#70787d',GradientType=0 );
     border-radius:100%;
-    border:2px solid #000000;
+    border:2px solid #0a0a0a;
     left:5px;
   }
   
@@ -486,11 +486,11 @@ section .title::after{
   .timeline-box{
     position:relative;
     
-   background-color:#444950;
+   background-color:crimson;
     border-radius:15px;
     border-top-left-radius:0px;
     border-bottom-right-radius:0px;
-    border:2px solid #696969;
+    border:1px solid #696969;
     transition:all 0.5s ease;
     overflow:hidden;
   }
@@ -503,7 +503,7 @@ section .title::after{
   
   .box-title{
     padding:5px 15px;
-    border-bottom: 1px solid #ffffff;
+    border-bottom: 1px solid #686262;
   }
   
   .box-title i{

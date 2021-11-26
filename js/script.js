@@ -97,7 +97,7 @@ let projects = [
     {
       imgURL: "https://picsum.photos/300?random=1",
       imgALT: "My Project 1",
-      title: "My Project Title 1",
+      title: "Flower e-commerce",
       techStack: "HTML/CSS",
       description: "lorem ipsum hello world",
       githubURL: "#",
