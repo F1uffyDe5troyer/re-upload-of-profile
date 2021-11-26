@@ -538,6 +538,10 @@ section .title::after{
     background: #fff;
 }
 
+p{
+    color: #fff;
+}
+
 .services-head{
     color: whitesmoke;
 }
@@ -556,7 +560,7 @@ section .title::after{
     background: #111;
     text-align: center;
     border-radius: 6px;
-    padding: 50px 25px;
+    padding: 50px;
     cursor: pointer;
     transition: all 0.3s ease;
 }
