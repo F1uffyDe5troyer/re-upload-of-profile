@@ -95,7 +95,7 @@ jQuery(document).ready(function($) {
 // works section
 let projects = [
     {
-      imgURL: "https://picsum.photos/300?random=1",
+      imgURL: "images/projects/Dark theme.png",
       imgALT: "My Project 1",
       title: "Flower e-commerce",
       techStack: "HTML/CSS",
@@ -104,68 +104,23 @@ let projects = [
       liveProjectURL: "#"
     },
     {
-      imgURL: "https://picsum.photos/300?random=2",
+      imgURL: "images/projects/Css animation.png",
       imgALT: "My Project 2",
       title: "My Project Title 2",
-      techStack: "Python",
+      techStack: "HTML/CSS",
       description: "lorem ipsum Python",
       githubURL: "#",
       liveProjectURL: "#"
     },
     {
-      imgURL: "https://picsum.photos/300?random=3",
+      imgURL: "images/projects/First Site.png",
       imgALT: "My Project 3",
       title: "My Project Title 45",
-      techStack: "JavaScript",
+      techStack: "HTML/CSS",
       description: "lorem ipsum JS",
       githubURL: "#",
       liveProjectURL: "#"
     },
-    {
-      imgURL: "https://picsum.photos/300?random=23",
-      imgALT: "This is cool",
-      title: "Some Title",
-      techStack: "JavaScript",
-      description: "I made this",
-      githubURL: "#",
-      liveProjectURL: "#"
-    },
-    {
-      imgURL: "https://picsum.photos/300?random=4",
-      imgALT: "My Project 4",
-      title: "My Project Title 4",
-      techStack: "HTML/CSS",
-      description: "lorem ipsum",
-      githubURL: "#",
-      liveProjectURL: "#"
-    },
-    {
-      imgURL: "https://picsum.photos/300?random=5",
-      imgALT: "My Project 5",
-      title: "My Project Title 5",
-      techStack: "Python",
-      description: "This is dynamic",
-      githubURL: "#",
-      liveProjectURL: "#"
-    },
-    {
-      imgURL: "https://picsum.photos/300?random=6",
-      imgALT: "My Project 6",
-      title: "My Project Title 6",
-      techStack: "HTML/CSS",
-      description: "I just created this",
-      githubURL: "#",
-      liveProjectURL: "#"
-    },
-    {
-      imgURL: "https://picsum.photos/300?random=7",
-      imgALT: "My Project 7",
-      title: "My Project Title 7",
-      techStack: "JavaScript",
-      description: "Pokedex",
-      githubURL: "#",
-      liveProjectURL: "#"
-    }
   ];
   
   function createCard(card) {
