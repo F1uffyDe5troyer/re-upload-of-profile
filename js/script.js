@@ -93,6 +93,11 @@ jQuery(document).ready(function($) {
 });
 
 // works section
+function NewTab() {
+  window.open(
+    "https://www.geeksforgeeks.org", "_blank");
+}
+
 let projects = [
     {
       imgURL: "images/projects/Dark theme.png",
@@ -101,7 +106,8 @@ let projects = [
       techStack: "HTML/CSS",
       description: "lorem ipsum hello world",
       githubURL: "https://github.com/F1uffyDe5troyer/Project-do-over",
-      liveProjectURL: "https://friendly-jennings-1a27d9.netlify.app/"
+      liveProjectURL: "https://friendly-jennings-1a27d9.netlify.app/",
+      
     },
     {
       imgURL: "images/projects/Css animation.png",
