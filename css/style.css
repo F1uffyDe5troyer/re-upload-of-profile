@@ -309,7 +309,9 @@ section .title::after{
     color:rgb(0, 0, 0);
     background: rgb(255, 255, 255);
 }
-
+.about-p{
+    color: rgb(0, 0, 0);
+}
 .about .title::before{
     background: rgb(0, 0, 0);
 }
@@ -714,7 +716,7 @@ p{
 .teams .carousel .card{
     background: #222;
     border-radius: 6px;
-    padding: 25px 35px;
+    padding: 35px 35px;
     text-align: center;
     overflow: hidden;
     transition: all 0.3s ease;
